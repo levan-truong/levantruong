@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Levan | Software Engineer</title>
+    <link>/categories/development/</link>
+    <description>Recent content in development on Levan | Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codin Game</title>
+      <link>/portfolio/project-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-1/</guid>
+      <description>CodinGame is a technology company editing an online platform for developers, allowing them to play with programming with increasingly difficult puzzles, to learn to code better with an online programming application supporting twenty-five programming languages, and to compete in multiplayer programming contests involving timed artificial intelligence, or code golf challenges.</description>
+    </item>
+    
+  </channel>
+</rss>

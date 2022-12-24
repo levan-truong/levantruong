@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>References on Levan | Software Engineer</title>
+    <link>/portfolio/</link>
+    <description>Recent content in References on Levan | Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Azure</title>
+      <link>/portfolio/project-2/</link>
+      <pubDate>Wed, 01 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-2/</guid>
+      <description>Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>/portfolio/project-4/</link>
+      <pubDate>Wed, 11 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-4/</guid>
+      <description>In agile development practices, developers need to integrate their work frequently to fix bugs or to create a new feature or functionality.</description>
+    </item>
+    
+    <item>
+      <title>SAFe Scaled Agile</title>
+      <link>/portfolio/project-5/</link>
+      <pubDate>Sat, 27 Nov 2021 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-5/</guid>
+      <description>A Certified SAFe 5 Practitioner (SP) is a SAFe team member professional responsible for using Scrum, Kanban, and XP in a SAFe environment.</description>
+    </item>
+    
+    <item>
+      <title>OOP JAVA</title>
+      <link>/portfolio/project-3/</link>
+      <pubDate>Mon, 14 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-3/</guid>
+      <description> Object-oriented programming SOLID Principles Best practices in OOP Architecture Exam task: implement backend for online store A lot of coding exercises GoF Design Patterns Clean Code Design in OOP </description>
+    </item>
+    
+    <item>
+      <title>JAVA &amp; C&#43;&#43;</title>
+      <link>/portfolio/project-6/</link>
+      <pubDate>Wed, 12 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-6/</guid>
+      <description>TestDome is a provider of high-quality online screening tests for knowledge workers.</description>
+    </item>
+    
+    <item>
+      <title>Codin Game</title>
+      <link>/portfolio/project-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-1/</guid>
+      <description>CodinGame is a technology company editing an online platform for developers, allowing them to play with programming with increasingly difficult puzzles, to learn to code better with an online programming application supporting twenty-five programming languages, and to compete in multiplayer programming contests involving timed artificial intelligence, or code golf challenges.</description>
+    </item>
+    
+  </channel>
+</rss>

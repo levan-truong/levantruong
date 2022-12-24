@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on Levan | Software Engineer</title>
+    <link>/categories/agile/</link>
+    <description>Recent content in Agile on Levan | Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 27 Nov 2021 12:14:34 +0600</lastBuildDate><atom:link href="/categories/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAFe Scaled Agile</title>
+      <link>/portfolio/project-5/</link>
+      <pubDate>Sat, 27 Nov 2021 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-5/</guid>
+      <description>A Certified SAFe 5 Practitioner (SP) is a SAFe team member professional responsible for using Scrum, Kanban, and XP in a SAFe environment.</description>
+    </item>
+    
+  </channel>
+</rss>

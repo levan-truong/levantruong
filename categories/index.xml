@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Levan | Software Engineer</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Levan | Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud</title>
+      <link>/categories/cloud/</link>
+      <pubDate>Wed, 01 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>/categories/devops/</link>
+      <pubDate>Wed, 01 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>/categories/jenkins/</link>
+      <pubDate>Wed, 11 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile</title>
+      <link>/categories/agile/</link>
+      <pubDate>Sat, 27 Nov 2021 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/categories/java/</link>
+      <pubDate>Mon, 14 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>/categories/algorithm/</link>
+      <pubDate>Wed, 12 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/categories/development/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/categories/development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

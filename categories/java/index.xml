@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Levan | Software Engineer</title>
+    <link>/categories/java/</link>
+    <description>Recent content in Java on Levan | Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OOP JAVA</title>
+      <link>/portfolio/project-3/</link>
+      <pubDate>Mon, 14 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-3/</guid>
+      <description> Object-oriented programming SOLID Principles Best practices in OOP Architecture Exam task: implement backend for online store A lot of coding exercises GoF Design Patterns Clean Code Design in OOP </description>
+    </item>
+    
+  </channel>
+</rss>
